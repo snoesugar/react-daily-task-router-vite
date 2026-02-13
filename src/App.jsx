@@ -33,7 +33,7 @@ function App() {
           path="*"
           element={
             <main style={{ padding: "1rem" }}>
-              <p>There's nothing here!</p>
+              <p> 不存在的頁面</p>
             </main>
           }
         />
